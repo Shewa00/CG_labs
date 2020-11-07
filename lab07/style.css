@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  color: #202020;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+}
+
+.box {
+  display: block;
+  width: 305px;
+  margin: 50px auto;
+}
+
+button {
+  width: 150px;
+  height: 50px;
+  font-family: Arial;
+  font-size: 30px;
+}
